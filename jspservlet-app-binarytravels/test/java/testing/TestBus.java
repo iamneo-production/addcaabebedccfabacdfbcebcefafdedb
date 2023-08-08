@@ -1,12 +1,11 @@
 package testing;
-Binary travels 
-Bus java
+
 package model;
 
 import java.time.LocalDate;
 
 public class Bus{
-
+	
     private int noOfPersons;
     private String busType;
     private int rates;
@@ -41,9 +40,6 @@ public class Bus{
         this.rates = rates;
         this.date = date;
     }
-
-    
-    //Enter code here..
 }
 
 import model.Bus;
