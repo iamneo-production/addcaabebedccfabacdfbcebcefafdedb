@@ -53,8 +53,7 @@ public class Flight{
         this.to = to;
         this.triptype = triptype;
     }
-    public Flight(int noOfPersons, String classType, int rates, LocalDate from, LocalDate to, String triptype) 
-    {
+    public Flight(int noOfPersons, String classType, int rates, LocalDate from, LocalDate to, String triptype) {
         this.noOfPersons = noOfPersons;
         this.classType= classType;
         this.rates = rates;
