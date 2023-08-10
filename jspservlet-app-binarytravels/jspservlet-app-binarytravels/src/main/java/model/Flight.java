@@ -61,6 +61,6 @@ public class Flight{
         this.to = to;
         this.triptype = triptype;
 
-    }
-     
+    }
+
 }
